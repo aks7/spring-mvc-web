@@ -1,0 +1,18 @@
+   <nav class="navbar navbar-centre navbar-default container">
+
+
+        <a href="#" class="navbar-brand">Brand</a>
+
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="/flights.do">Flights</a></li>
+            <li><a href="/list-todo.do">My Bookings</a></li>
+            <li><a href="#">AKS</a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+         <li><a href="#">Home</a></li>
+            <li><a href="/logout.do">Logout</a></li>
+            
+        </ul>
+
+    </nav>

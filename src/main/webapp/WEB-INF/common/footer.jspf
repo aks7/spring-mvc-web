@@ -1,0 +1,16 @@
+<footer class="footer">
+	<div align="center">
+		<p>
+
+			<font color=blue><h3>Contact us</h3></font> <font color=blue><h3>
+					Mb:8793657289</h3></font>
+		</p>
+	</div>
+</footer>
+
+<script src="../webjars/jquery/1.9.1/jquery.min.js"></script>
+<script src="../webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

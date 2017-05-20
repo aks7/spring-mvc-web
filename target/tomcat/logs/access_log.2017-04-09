@@ -1,0 +1,7 @@
+127.0.0.1 - - [09/Apr/2017:09:55:40 +0530] "GET //login.do HTTP/1.1" 200 351 http-bio-8080-exec-1 365
+127.0.0.1 - - [09/Apr/2017:09:55:40 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 23
+127.0.0.1 - - [09/Apr/2017:09:55:51 +0530] "POST /login.do HTTP/1.1" 200 381 http-bio-8080-exec-3 937
+127.0.0.1 - - [09/Apr/2017:09:59:42 +0530] "POST /login.do HTTP/1.1" 200 381 http-bio-8080-exec-1 561
+127.0.0.1 - - [09/Apr/2017:10:01:21 +0530] "POST /login.do HTTP/1.1" 200 381 http-bio-8080-exec-1 510
+127.0.0.1 - - [09/Apr/2017:10:04:11 +0530] "GET /login.do HTTP/1.1" 200 351 http-bio-8080-exec-1 178
+127.0.0.1 - - [09/Apr/2017:10:04:22 +0530] "POST /login.do HTTP/1.1" 200 171 http-bio-8080-exec-2 473
